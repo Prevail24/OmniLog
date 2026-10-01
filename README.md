@@ -2,7 +2,7 @@
 *The silent witness to every keystroke.*
 
 ## 👁️ The Essence
-OmniLog is not just a program; it is a digital shadow. It sits quietly in the background of any operating system, recording every thought, mistake, and secret typed into a keyboard into a permanent, chronological record.
+OmniLog is not just a program; it is a digital shadow. It sits quietly in the background of any operating system typed into a keyboard into a permanent, chronological record.
 
 ## 🌙 The Basics
 
@@ -22,6 +22,7 @@ All data is exhaled into a single file: `keylog_data.txt`.
 * **The Analyst:** Capture raw, unfiltered human data.
 
 ## ⚙️ Technical Soul
+
 - **Engine:** Python 3 / `pynput`
 - **Reach:** Windows, macOS, Linux.
 - **The Escape:** Press `Esc` to stop the recording and freeze time.
