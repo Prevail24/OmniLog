@@ -1,10 +1,7 @@
-# 🌑 OmniLog
-*The silent witness to every keystroke.*
+# OmniLog
+*Captures every keystroke.*
 
-## 👁️ The Essence
-OmniLog is not just a program; it is a digital shadow. It sits quietly in the background of any operating system typed into a keyboard into a permanent, chronological record.
-
-## 🌙 The Basics
+## The Basics
 
 ### The Setup
 1. Install **Python 3.x**.
@@ -17,9 +14,9 @@ All data is exhaled into a single file: `keylog_data.txt`.
 * `Key pressed: h` $\rightarrow$ *A character was born.*
 * `Special key pressed: Key.enter` $\rightarrow$ *A thought was completed.*
 
-## 🗝️ Why it Matters
+## 🗝️ 
 
-* **The Analyst:** Capture raw, unfiltered human data.
+* **For The Analyst:** Capture raw, unfiltered human input data.
 
 ## ⚙️ Technical Soul
 
